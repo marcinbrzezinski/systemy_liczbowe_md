@@ -15,7 +15,7 @@ Liczba zapisana w dziesiętnym systemie liczbowym jako **10**, w systemie dwójk
 
 ===**dziesiętnym**    ||    **dwójkowym**===
 
-            	1     ||     0001
+		1     ||     0001
 
 		2     ||     0010
 
