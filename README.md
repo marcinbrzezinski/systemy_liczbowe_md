@@ -13,29 +13,29 @@ Liczba zapisana w dziesiętnym systemie liczbowym jako **10**, w systemie dwójk
 
 ### Pierwsze dziesięć liczb w systemie w systemie:
 
-**dziesiętnym**    ||    **dwójkowym**
+===**dziesiętnym**    ||    **dwójkowym**===
 
             	1     ||     0001
 
-				2     ||     0010
+		2     ||     0010
 
-				3     ||     0011
+		3     ||     0011
 
-				4     ||     0100
+		4     ||     0100
 
-				5     ||     0101
+		5     ||     0101
 
-				6     ||     0110
+		6     ||     0110
 
-				7     ||     0111
+		7     ||     0111
 
-				8     ||     1000
+		8     ||     1000
 
-				9     ||     1001
+		9     ||     1001
 
-			      10     ||     1010
+		10    ||     1010
 
-	========================
+	=================================
 
 
 ### Przykład zamiany liczby z systemu dziesiętnego na system dwójkowy:
